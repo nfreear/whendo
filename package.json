@@ -1,0 +1,15 @@
+{
+  "name": "whendo",
+  "version": "1.0.0",
+  "description": "When a time-dependent condition is met, resolve a promise.",
+  "license": "todo",
+  "author": "Nick Freear",
+  "repository": "https://github.com/nfreear/whendo.git",
+  "main": "./index.js",
+  "scripts": {
+    "test": "semistandard"
+  },
+  "devDependencies": {
+    "semistandard": "^16.0.1"
+  }
+}
